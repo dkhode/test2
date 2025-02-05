@@ -69,4 +69,4 @@ Example `properties.json` file:
 For viewing the templates with `preview` label, provide query parameter `preview=true` to the  `new workflow` page URL. Eg. `https://github.com/<owner>/<repo_name>/actions/new?preview=true`.
 
 ### Enable template for public
-Remove the `labels` array from `properties.json` file to publish the template to public
+Remove the `labels` array from `properties.json` file to publish the template to public...
