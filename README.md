@@ -72,3 +72,4 @@ For viewing the templates with `preview` label, provide query parameter `preview
 Remove the `labels` array from `properties.json` file to publish the template to public...
 ++++
 Hi this is first commit
+This is second commit
