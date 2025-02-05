@@ -73,3 +73,4 @@ Remove the `labels` array from `properties.json` file to publish the template to
 ++++
 Hi this is first commit
 This is second commit
+Third commit
